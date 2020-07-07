@@ -16,3 +16,14 @@ terraform {
   }
 }
 ```
+
+## Example tfvars
+Uses tfvars file for variables
+
+Example create **terraform.tfvars** file and add
+
+```
+bucket_name = "my-terraform-state"
+
+table_name = "my-terraform-state"
+```

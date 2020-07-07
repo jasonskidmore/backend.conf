@@ -3,5 +3,5 @@
 *.tfstate.backup
 *.tfstate
 .idea
-.tfvars
+*.tfvars
 *.backup
